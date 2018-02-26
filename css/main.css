@@ -1,0 +1,20 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{color: rgb(49, 48, 48);
+    font-family: 'Krona One', sans-serif;
+    font-size: 40px;
+}
+.center{
+    width: 300%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.vogel{ 
+    width: 310px;
+    height: 380px;
+    float: center; 
+    
+
+    
