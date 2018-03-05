@@ -35,15 +35,15 @@ hr {
 
 
 h6 {
-    font-family: "Roboto", sans-serif; 
+font-family: 'Petit Formal Script', cursive;
     font-weight: 500; 
     font-size: 20px; 
     color: #494949; 
-    text-transform: uppercase; 
     float: left; 
- 
-    font-size: 16px; 
-    margin: 25px 40px 0 9px ; 
+
+    font-size: 20px; 
+    margin: 21px 40px 0 0px ; 
+
 }
 
 
@@ -69,6 +69,7 @@ header {
     width: 140px; 
     float: left;
     margin: 10px 0 0 25px; 
+  
 }
 
 #logo:hover {
